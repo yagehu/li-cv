@@ -1,0 +1,12 @@
+- degree: Ph.D.
+  major: Control Theory and Application
+  institution: South China University of Technology
+  date: { year: 1993, month: 6 }
+- degree: M.S.
+  major: Mechanical Engineering
+  institution: Nanjing University of Aeronautics and Astronautics
+  date: { year: 1988, month: 4 }
+- degree: B.S.
+  major: Mechanical Engineering
+  institution: Nanjing University of Aeronautics and Astronautics
+  date: { year: 1985, month: 6 }

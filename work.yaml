@@ -1,0 +1,46 @@
+- title: Control Engineer
+  org: Heraeus Quartz North America
+  start: { year: 2025, month: 4 }
+  resume: true
+  detail:
+    - Design and develop new control systems for SZUG
+      (fiber quartz glass manufacturing machines),
+      increasing overall equipment effectiveness.
+    - Architect software and hardware integration for logic control,
+      tower and puller motion, and tempoerature/oven power regulation.
+    - Integrate precision measuring components and develop comprehensive
+      HMIs for system monitoring and operation.
+    - Pioneer a new oven heating control system and a novel nitrogen pressure
+      control system, boosting product yield.
+    - Complete electrical schematics and layouts using EPLAN.
+- title: Professor (Full)
+  org: South China University of Technology
+  start: { year: 2001, month: 11 }
+  end: { year: 2022, month: 11 }
+  resume: true
+  detail:
+    - Pioneer machine controller hardware/software co-design using
+      Model-Based System Engineering including simulation, verification,
+      and automated code generation for controller design and implementation.
+    - Innovate multiple hardware/software machine controller platforms that
+      were successfully commercialized in the China controller market.
+- title: CTO
+  org: Shenzhen Qizhong Intelligent Company
+  start: { year: 2016, month: 11 }
+  end: { year: 2020, month: 11 }
+  resume: true
+  detail:
+    - Lead the development of machine controller hardware and
+      software platforms, including motion control, PLC, and EtherCAT
+      engineering and runtime environments.
+    - Innovate multiple DSP/FPGA-based embedded controller platforms and
+      software-based open controller platforms.
+- title: CTO
+  org: Shenzhen Shengyu Intelligent Company
+  start: { year: 2010, month: 1 }
+  end: { year: 2016, month: 5 }
+  resume: true
+  detail:
+    - Lead control and vision system development for the Robotic Stiffener
+      Bonder, an automated vision-guided bonding machine for consumer
+      electronics.

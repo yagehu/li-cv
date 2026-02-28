@@ -66,7 +66,7 @@
       columns: (1fr, auto),
       text(size: headline_size, [#strong(edu.degree), #edu.major]),
       [
-        #start.display(date_fmt)#sym.dash.en#end
+        #start.display(date_fmt)
       ]
     )
     #emph(edu.institution)

@@ -1,0 +1,37 @@
+- title: Full Tenured Professor
+  org: School of Mechanical and Automotive Engineering, South China University of Technology
+  start: { year: 2001, month: 11 }
+  end: { year: 2022, month: 11 }
+  resume: true
+  detail:
+    - |
+      *Pioneer machine controller hardware/software co-design* using
+      Model-Based System Engineering including simulation, verification,
+      and automated code generation for controller design and implementation.
+    - |
+      *Innovate multiple hardware/software machine controller platforms* that
+      were successfully commercialized in the China controller market.
+    - |
+      *Design Industry 4.0 Cyber-Physical Production System (CPPS)
+      architectures*, establishing one of th eearlist plug-and-produce CPPS
+      environments for customized product manufacturing.
+    - |
+      *Develop AI-driven solutions for flexible job shop dynamic scheduling*,
+      optimizing production efficiency and resource utilization.
+    - |
+      *Implement big-data analytics for machine fault detection*,
+      enabling predictive maintenance and reducing downtime.
+    - |
+      *Pioneer computing and communication co-design for Industrial IoT (IIoT)*,
+      ensuring reliable and real-time data exchange in manufacturing environments.
+    - |
+      *Innovate high-precision machine vision solutions for manufacturing*,
+      including dimensional measurement, AI-driven targeting,
+      and surface defect detection for industrial products.
+    - |
+      *Commercialize China's first 2.5D AOI measurement system in 2005*,
+      a technology still widely applied in the industry today.
+    - |
+      *Developed innovative automated inspection machines*,
+      including systems for Flexible Printed Circuits (FPC) and micro-tool AOI 
+      machines, significantly improving quality control capabilities.

@@ -13,17 +13,20 @@
     - Pioneer a new oven heating control system and a novel nitrogen pressure
       control system, boosting product yield.
     - Complete electrical schematics and layouts using EPLAN.
-- title: Full Tenured Professor
-  org: School of Mechanical and Automotive Engineering, South China University of Technology
-  start: { year: 2001, month: 11 }
-  end: { year: 2022, month: 11 }
+- title: Senior Engineering Technician
+  org: IDEXX
+  start: { year: 2024, month: 3 }
+  end: { year: 2025, month: 3 }
   resume: true
   detail:
-    - Pioneer machine controller hardware/software co-design using
-      Model-Based System Engineering including simulation, verification,
-      and automated code generation for controller design and implementation.
-    - Innovate multiple hardware/software machine controller platforms that
-      were successfully commercialized in the China controller market.
+    - Maintain the manufacturing production line for biomedical sensor products.
+    - Troubleshoot production equipment and modules, including high speed
+      linear motor transportation system,
+      vision-guided robot pick-and-place, smart vision for quality inspections.
+    - Optimize PLC coding to decrease machine downtime significantly.
+    - Innovate the illumination strategy for AOI system, decreased false acceptance rate by 23%.
+    - Increase the vision guided robot pick-and-place success rate by 15% using
+      improved calibration.
 - title: CTO
   org: Shenzhen Qizhong Intelligent Company
   start: { year: 2016, month: 11 }
@@ -35,6 +38,16 @@
       engineering and runtime environments.
     - Innovate multiple DSP/FPGA-based embedded controller platforms and
       software-based open controller platforms.
+    - Pioneer machine vision algorithm development for industrial environments,
+      specializing in dimension measurement and surface defect detection.
+    - Direct application development, integrating motion, logic, and vision
+      software to meet diverse performance requirements.
+    - Develop CAD/CAM interpreters, path planning and optimization algorithms,
+      and HMI designs.
+    - Provide technical guidance to machine builders in sectors such as
+      consumer electronics, EV battery manufacturing, and solar panel
+      production, supporting applications including dispensing machines,
+      inspection systems, and high-speed pick-and-place robotic modules.
 - title: CTO
   org: Shenzhen Shengyu Intelligent Company
   start: { year: 2010, month: 1 }
@@ -44,3 +57,13 @@
     - Lead control and vision system development for the Robotic Stiffener
       Bonder, an automated vision-guided bonding machine for consumer
       electronics.
+    - Direct control and vision development for PCB automated micro-driller
+      manufacturing equipment, including grinding machines, AOI systems,
+      CNC tools, and packaging machines.
+    - Deliver innovative, cost-effective designs that enabled the company to
+      become a supplier to the world's largest micro-tools manufacturer.
+    - Spearhead control and vision development for an automatic FPC gold
+      fingers inspection machine (AOI) featuring dimension and surface defect
+      detection.
+    - Develop the first inspection machine of its kind for the FPC industry,
+      reducing customer product complaint rates by over 50%.

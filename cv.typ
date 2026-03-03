@@ -13,6 +13,18 @@
   #link("itdili65@gmail.com") | 650-513-9295
 ])
 
+= Highlight
+
+- Accomplished Control Engineer with over 20 years of experience in
+  the design and implementation of advanced automation systems.
+- Successfully led more than 50 projects encompassing
+  high-performance machinery, vision-guided robotics,
+  and integrated production lines.
+- Possesses deep, comprehensive expertise across control technologies,
+  including software/hardware architecture, industrial fieldbus protocols,
+  logic/motion/process control, machine vision, IIoT, and AI-driven
+  manufacturing solutions.
+
 = Industry Experience
 
 #yaml("work.yaml").filter(it => it.resume).map(experience-item).join(v(0.5em))
